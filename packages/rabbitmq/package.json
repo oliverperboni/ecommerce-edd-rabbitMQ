@@ -1,0 +1,12 @@
+{
+  "name": "@ecommerce/rabbitmq",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.ts",
+  "dependencies": {
+    "amqplib": "^1.0.2"
+  },
+  "devDependencies": {
+    "@types/amqplib": "^0.10.7"
+  }
+}
